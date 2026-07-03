@@ -1,0 +1,3 @@
+ALTER TABLE tasks ADD COLUMN IF NOT EXISTS sxa_start_date DATE;
+ALTER TABLE tasks ADD COLUMN IF NOT EXISTS initial_deadline DATE;
+ALTER TABLE tasks ADD COLUMN IF NOT EXISTS current_deadline DATE;
