@@ -435,9 +435,3 @@ FILE_DELETED
 - Production-da frontend domain-i `BACKEND_CORS_ORIGINS`-ə açıq yazılmalıdır; credentials aktiv olduğu üçün `*` istifadə edilməməlidir.
 
 ---
-
-## Author
-
-Task Manager Backend Project
-#   t a s k - m a n a g e r - b a c k  
- 
