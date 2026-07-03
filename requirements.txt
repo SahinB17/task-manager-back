@@ -3,7 +3,6 @@ uvicorn
 sqlalchemy
 psycopg2-binary
 python-dotenv
-passlib[bcrypt]
 python-jose[cryptography]
 python-multipart
 pydantic
@@ -13,3 +12,5 @@ alembic
 openai
 httpx
 pytest
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.3
